@@ -4,12 +4,12 @@
 }
 
 #Index{
-    background-image: url(Imagenes/fondo.jpg);
+    background-image: url(imagenes/fondo.jpg);
     
     padding-left: 80px;
 }
 #Receta{
-    background-image: url(Imagenes/cocina.jpg);
+    background-image: url(imagenes/cocina.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-left: 80px;
