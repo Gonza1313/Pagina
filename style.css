@@ -1,44 +1,47 @@
-.Imagen1{
-  width: 1000px;
-  height: 600px;
+/* Quitamos dimensiones fijas de la imagen */
+.Imagen1 {
+    display: block;
 }
 
-#Index{
+/* Sacamos el padding de Index */
+#Index {
     background-image: url(imagenes/fondo.jpg);
-    
-    padding-left: 80px;
 }
-#Receta{
+
+/* Sacamos el padding de Receta */
+#Receta {
     background-image: url(imagenes/cocina.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    padding-left: 80px;
-    padding-top: 20px;
-    
 }
-h1{
+
+h1 {
     color: azure;
     font-family: Berlin Sans FB Demi;
 }
-h2{
-   color: azure;
+
+h2 {
+    color: azure;
     font-family: Berlin Sans FB Demi; 
 }
-p{
+
+/* Sacamos el padding-right del párrafo */
+p {
     color: azure;
     font-family: Berlin Sans FB Demi;
-    padding-right: 300px;
 }
-ol{
+
+ol {
     list-style-type: decimal;
-    margin-left: 40px;
 }
-li{
-    font-size:  20px;
+
+li {
+    font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(0, 0, 0);
-
 }
-a{
+
+a {
     color: yellowgreen;
 }
+
