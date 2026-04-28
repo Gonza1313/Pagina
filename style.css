@@ -1,14 +1,13 @@
-/* Quitamos dimensiones fijas de la imagen */
+
 .Imagen1 {
     display: block;
 }
 
-/* Sacamos el padding de Index */
+
 #Index {
     background-image: url(imagenes/fondo.jpg);
 }
 
-/* Sacamos el padding de Receta */
 #Receta {
     background-image: url(imagenes/cocina.jpg);
     background-repeat: no-repeat;
@@ -25,7 +24,7 @@ h2 {
     font-family: Berlin Sans FB Demi; 
 }
 
-/* Sacamos el padding-right del párrafo */
+
 p {
     color: azure;
     font-family: Berlin Sans FB Demi;
